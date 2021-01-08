@@ -1,2 +1,2 @@
 # My-MIPS
-Project of a MIPS processor architecture implemented in Verilog using software Quartus Lite.
+Project of a processor architecture based on MIPS mono-cycle implemented in Verilog using software Quartus Lite.
